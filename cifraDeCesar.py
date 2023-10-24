@@ -1,3 +1,5 @@
+#Lucas Kremer Wilbert
+
 def codificador():
     
     frase = input('Digite a frase a ser encriptada sem acentos: ')
